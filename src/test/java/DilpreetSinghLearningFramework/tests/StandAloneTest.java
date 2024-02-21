@@ -20,7 +20,7 @@ public class StandAloneTest {
 
 	public static void main(String[] args) throws InterruptedException {
 
-//new comments are added
+//new comments are added //again comments added
 		
 		String productName = "IPHONE 13 PRO";
 		WebDriverManager.chromedriver().setup();
