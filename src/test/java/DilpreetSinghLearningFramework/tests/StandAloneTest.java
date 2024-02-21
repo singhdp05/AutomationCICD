@@ -19,6 +19,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class StandAloneTest {
 
 	public static void main(String[] args) throws InterruptedException {
+
+//new comments are added
 		
 		String productName = "IPHONE 13 PRO";
 		WebDriverManager.chromedriver().setup();
